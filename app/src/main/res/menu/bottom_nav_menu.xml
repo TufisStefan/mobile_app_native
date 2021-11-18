@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/create_reservation"
+        android:title="Create"
+        android:icon="@drawable/ic_create_reservation"/>
+    <item
+        android:id="@+id/my_reservations"
+        android:title="Home"
+        android:icon="@drawable/ic_my_reservations" />
+
+</menu>

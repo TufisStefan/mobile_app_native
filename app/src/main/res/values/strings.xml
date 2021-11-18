@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MA_Project</string>
+    <string name="title">MY RESERVATIONS</string>
+    <string name="add_new_item">Add new item</string>
+    <string name="back">Back</string>
+    <string name="hotelName">Hotel Name</string>
+    <string name="hotelNameAndLocation">Hotel Name and Location</string>
+    <string name="reservationPeriod">dd/MM-dd/MM</string>
+    <string name="priceAndStatus">9999.99 RON - Status: Confirmed</string>
+    <string name="add_new_product">Add new product</string>
+    <string name="enter_product_name">Enter Name…</string>
+    <string name="enter_product_description">Enter Description…</string>
+    <string name="enter_product_price">Enter Price…</string>
+    <string name="enter_product_quantity">Enter Quantity…</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete_item">Delete item</string>
+    <string name="productPrice">Price / Unit</string>
+    <string name="productQuantityLabel">Quantity</string>
+    <string name="productStatus">Status</string>
+    <string name="periodTag">Period:</string>
+    <string name="templatePeriod">dd.MM.yyyy-dd.MM.yyyy</string>
+    <string name="personsTag">Persons:</string>
+    <string name="templatePersons">xx</string>
+    <string name="mealPlanTag">Meal Plan:</string>
+    <string name="notesTag">Notes:</string>
+    <string name="templateNote">Notes and observations...</string>
+    <string name="editButton">Edit</string>
+    <string name="cancelButton">Delete</string>
+    <string name="pricePerNight">999.99/night</string>
+    <string name="confirmButton">Confirm</string>
+    <string name="spinnerItem">SPINNER ITEM</string>
+    <string-array name="mealOptions">
+        <item>NONE</item>
+        <item>BREAKFAST_ONLY</item>
+        <item>HALF_PENSION</item>
+        <item>FULL_PENSION</item>
+    </string-array>
+</resources>
